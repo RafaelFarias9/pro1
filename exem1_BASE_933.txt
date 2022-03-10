@@ -2,5 +2,3 @@ texter= erro
 editando
 edição no repositório
 repositorio ja editado
-editei
-commit

@@ -2,5 +2,8 @@ texter= erro
 editando
 edição no repositório
 repositorio ja editado
+<<<<<<< HEAD
 editei
+=======
 commit
+>>>>>>> fdcc31c9a73b653f869c62be6f78b3d51dc929ca
